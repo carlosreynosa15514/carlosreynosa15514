@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <h1> Hola a todos </h1>
-<img src="https://picsum.photos/300/300" alt="Montaña">
+<img src="https://picsum.photos/300/300" alt="picsum.photos">
+<img src="Pentagrama.jpg" alt="Pentagrama">
