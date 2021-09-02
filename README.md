@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **carlosreynosa15514/carlosreynosa15514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1> Hola a todos </h1>
+<h1> Pagina Web personal desde Github </h1>
 <img src="https://picsum.photos/300/300" alt="picsum.photos">
-<img src="Pentagrama.jpg" alt="Pentagrama">
+<img src="Pentagrama.jpg" alt="Pentagrama" style="width:300px; height:300px;">
